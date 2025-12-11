@@ -4,6 +4,8 @@ Statistical Analysis
 ## Descriptive Statistics
 ![Descriptive Statistics Example](https://raw.githubusercontent.com/Morsshed/Excel-Statistical-Data-Analysis/main/ExcelImages/Descriptive%20Statistics.png)
 
+### Description
+
 | Metric                 | Meaning                                |
 | ---------------------- | -------------------------------------- |
 | **Mean** (Average)     | The central value in the dataset       |
@@ -46,8 +48,7 @@ The most common metric is the Pearson correlation coefficient, which ranges from
 
 ###### Linear Regression
                    Y = a + bX
-
-                   | Metric              |  Meaning                                                    |
+| Metric              | Example Meaning                                               |
 | ------------------- | ------------------------------------------------------------- |
 | **Coefficient (b)** | For every $1 increase in advertising, sales increase by $0.50 |
 | **R-Squared**       | 0.75 → 75% of sales variability explained by advertising      |
@@ -59,11 +60,12 @@ The most common metric is the Pearson correlation coefficient, which ranges from
 
 A high F-value and low p-value (typically < 0.05) suggest the group means are significantly different
 
-                   | Metric                    | Meaning                                                   |
+| Metric                    | Meaning                                                   |
 | ------------------------- | --------------------------------------------------------- |
 | **Between Groups**        | Variation due to the factor being tested (e.g., category) |
 | **Within Groups (Error)** | Variation within each group                               |
 | **F-Statistic**           | Ratio of between-group to within-group variance           |
 | **p-Value**               | Probability that observed differences occurred by chance  |
 | **Significance**          | Indicates whether group means differ meaningfully         |
+
 
