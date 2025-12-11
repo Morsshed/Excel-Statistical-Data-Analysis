@@ -7,3 +7,5 @@ Statistical Analysis
 ## Correlation Analysis
 ![Correlation Analysis Example](https://raw.githubusercontent.com/Morsshed/Excel-Statistical-Data-Analysis/main/ExcelImages/Correlation.png)
 
+## Regression Analysis
+![Regression Analysis Example](https://raw.githubusercontent.com/Morsshed/Excel-Statistical-Data-Analysis/main/ExcelImages/Regression.png)
