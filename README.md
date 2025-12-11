@@ -34,7 +34,9 @@ The most common metric is the Pearson correlation coefficient, which ranges from
 
 ###### Correlation 
                    CORREL(range1, range2)
-                   
+
+### Description
+
 | Correlation Value | Interpretation                 |
 | ----------------- | ------------------------------ |
 | **0.85**          | Strong positive relationship   |
@@ -48,6 +50,8 @@ The most common metric is the Pearson correlation coefficient, which ranges from
 
 ###### Linear Regression
                    Y = a + bX
+
+### Description                   
 | Metric              | Example Meaning                                               |
 | ------------------- | ------------------------------------------------------------- |
 | **Coefficient (b)** | For every $1 increase in advertising, sales increase by $0.50 |
@@ -59,6 +63,8 @@ The most common metric is the Pearson correlation coefficient, which ranges from
 ![ANOVA Analysis Example](https://raw.githubusercontent.com/Morsshed/Excel-Statistical-Data-Analysis/main/ExcelImages/Anova.png)
 
 A high F-value and low p-value (typically < 0.05) suggest the group means are significantly different
+
+### Description
 
 | Metric                    | Meaning                                                   |
 | ------------------------- | --------------------------------------------------------- |
